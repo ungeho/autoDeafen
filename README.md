@@ -27,7 +27,7 @@ League of Legends で **試合開始を検知し、自動で `/deafen` を1度�
 
 ---
 
-## 🛠 インストール手順（Windows / Python必要）
+## 🛠 インストール手順
 
 ### 1. Pythonをインストール  
 https://www.python.org/downloads/
