@@ -9,7 +9,7 @@ from pynput.keyboard import Key, Controller
 
 ALL_GAME_DATA_URL = "https://127.0.0.1:2999/liveclientdata/allgamedata"
 
-# /mute all や /fullmute all に変更したい場合はここを変更する。
+# ゲーム開始時に実行するコマンドを"/mute all"や"/fullmute all"に変更したい場合はここを変更する。
 DEAFEN_COMMAND = "/deafen"
 
 # GameStart から何秒後に /deafen を送るか
