@@ -43,7 +43,7 @@ pip install requests pynput urllib3
 ### 3. リポジトリの取得
 
 ```bash
-git clone https://github.com/<yourname>/autoDeafen.git
+git clone https://github.com/ungeho/autoDeafen.git
 cd autoDeafen
 ```
 
