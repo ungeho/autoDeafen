@@ -44,6 +44,8 @@ pip install requests pynput urllib3
 
 ```bash
 git clone https://github.com/ungeho/autoDeafen.git
+```
+```bash
 cd autoDeafen
 ```
 
